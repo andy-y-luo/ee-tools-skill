@@ -1,0 +1,19 @@
+{
+  "name": "ee-tools-skill",
+  "version": "0.1.0",
+  "description": "A collection of electrical engineering tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "tools"
+  ],
+  "author": "Andy Luo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
